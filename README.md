@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin Raza</h1>
-<h3 align="center">I'm a **Student** passionate about **Tech**, **Science** and **Programming**.</h3>
+<h3 align="center">I'm a Student passionate about Tech, Science and Programming.</h3>
 
 - 🔭 I’m currently working on **Laravel**
 
