@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Time Series , Python**
 
-- 📫 How to reach me **raazabc60@gmail.com**
+
 
 [![Mohain Raza GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinashlar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
